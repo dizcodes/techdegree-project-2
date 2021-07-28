@@ -33,9 +33,13 @@
 }
 .header-content  {
    text-align: center;
-
 }
-
+.header-content img {
+      width: 80%
+      max-width: 350px;
+      margin: auto;
+      padding: 15px;
+}
 
 
 
