@@ -76,7 +76,7 @@ nav ul li {
 .column {
     width: 85%;
     max-width: 300px;
-
+    margin: 0 auto 20px auto;
 }
 
 
