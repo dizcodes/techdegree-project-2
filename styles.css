@@ -1,0 +1,77 @@
+/* || web fonts */
+   @font-face {
+      font-family: 'Roboto-Regular';
+      src: url('../fonts/Roboto-Regular.woff2') format('woff2');
+      font-weight: 300;
+      font-display: swap;
+    }
+
+    * {
+      font-family: 'Roboto Regular';
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 768px){
+       .header-wwrapper {
+         width:100%;
+         padding: 0 10px;
+       }
+       .header-wrapper h1 {
+         font-size:1.8rem;
+       }
+}
