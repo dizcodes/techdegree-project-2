@@ -74,6 +74,11 @@ nav ul li {
     padding: 20px 0;
 }
 
+.column img {
+      width: 80%;
+      max-width: 300px;
+      margin: 20px auto;
+}
 
 
 
