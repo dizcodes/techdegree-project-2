@@ -20,12 +20,17 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    color: red;
+    color: blue;
     font-weight: 300;
     font-family: 'Oswald', sans-serif;
+}
+.header-wrapper  {
+  flex-direction: column;
+  background-color: gray;
+  text-align: center;
+  padding-bottom: 1.2em;
 
 }
-
 
 
 
