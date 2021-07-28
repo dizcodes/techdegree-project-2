@@ -72,6 +72,10 @@ nav ul li {
 .portfolio {
     background-color: orange;
     padding: 20px 0;
+}
+.column {
+    width: 85%;
+    max-width: 300px;
 
 }
 
