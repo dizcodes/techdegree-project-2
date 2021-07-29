@@ -169,7 +169,7 @@ nav ul li {
         flex-wrap: wrap;
         max-width: 1024px;
         margin: 0 auto;
-        padding: 70px;
+        padding: 50px;
       }
       .skill-flex {
         display: flex;
