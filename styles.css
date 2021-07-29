@@ -142,6 +142,7 @@ nav ul li {
        }
        .header-wrapper h1 {
          font-size:1.8rem;
+         justify-content: flex-start;
        }
        .header-content  {
         display: flex;
