@@ -149,6 +149,10 @@ nav ul li {
         justify-content: space-between;
         text-align: left;
         max-width: 768px;
+       }
+       .main-nav {
+        display: inline;
+        margin-right: auto;
 
        }
       #projects {
