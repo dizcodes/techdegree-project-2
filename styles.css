@@ -135,12 +135,17 @@ nav ul li {
 
 
 @media screen and (min-width: 768px){
-       .header-wwrapper {
+
+       .header-wrapper {
          width:100%;
          padding: 0 10px;
        }
        .header-wrapper h1 {
          font-size:1.8rem;
+       }
+       nav ul li {
+         display: inline;
+
        }
       #projects {
         display: flex;
@@ -152,6 +157,10 @@ nav ul li {
         display: flex;
         flex-direction: column;
         align-items: center;
+      }
+      .contact {
+        margin: auto;
+        font-style: italic;
       }
 
 }
