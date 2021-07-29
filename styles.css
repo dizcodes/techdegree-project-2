@@ -154,7 +154,7 @@ nav ul li {
        nav ul  {
          display: flex;
          flex-direction: row;
-         justify-content: center;
+         justify-content: flex-end;
          max-width: 768px;
        }
        nav ul li {
