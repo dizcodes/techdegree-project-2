@@ -151,6 +151,7 @@ nav ul li {
         justify-content: space-between;
         text-align: left;
         max-width: 768px;
+        padding: 10px;
        }
 
        nav ul  {
