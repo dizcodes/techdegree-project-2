@@ -178,5 +178,8 @@ nav ul li {
         margin: auto;
         font-style: italic;
       }
-
+      #footer-nav {
+        display: flex;
+        justify-content: flex-end;
+      }
 }
