@@ -180,6 +180,6 @@ nav ul li {
       }
       #footer-nav {
         display: flex;
-        justify-content: flex-end;
+        
       }
 }
