@@ -150,7 +150,7 @@ nav ul li {
         text-align: left;
         max-width: 768px;
        }
-      
+
        nav ul  {
          display: flex;
          flex-direction: row;
@@ -159,6 +159,7 @@ nav ul li {
        }
        nav ul li {
          display: inline;
+         text-align: right;
        }
       #projects {
         display: flex;
