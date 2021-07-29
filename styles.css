@@ -159,7 +159,7 @@ nav ul li {
        }
        nav ul li {
          display: inline;
-         text-align: right;
+         justify-content: flex-end;
        }
       #projects {
         display: flex;
