@@ -196,3 +196,31 @@ nav ul li {
       }
 
 }
+
+@media screen and (min-width: 1024px){
+
+     .header-wrapper{
+        flex-direction: row;
+        justify-content: space-between;
+        margin: auto;
+    }
+     nav ul li {
+
+    }
+     .header-content {
+         dislpay: flex;
+         justify-content: space-between;
+         max-width: 1020px;
+    }
+     .header-content p {
+       max-width: 500px;
+    }
+     .header-content img {
+
+    }
+     footer {
+       max-width: 1020px;
+    }
+
+
+}
