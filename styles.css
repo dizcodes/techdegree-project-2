@@ -78,6 +78,11 @@ nav ul li {
       max-width: 300px;
       margin: 20px auto;
 }
+footer {
+   display: inline;
+
+}
+
  .footer-back {
    display: flex;
    justify-content: flex-end;
