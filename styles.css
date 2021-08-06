@@ -79,13 +79,13 @@ nav ul li {
       margin: 20px auto;
 }
 footer {
-   display: inline;
+   display: flex;
+   justify-content:
 
 }
 
  .footer-back {
-   display: flex;
-   justify-content: flex-end;
+
  }
 #footer-nav {
       display: none;
