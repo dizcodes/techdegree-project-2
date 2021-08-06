@@ -79,6 +79,9 @@ nav ul li {
       margin: 20px auto;
 }
 
+#footer-nav {
+      display: none;
+}
 
 
 
