@@ -212,7 +212,7 @@ nav ul li {
      nav ul  {
        display: flex;
        justify-content: flex-end;
-       margin-right: 30px;
+
     }
      .header-content {
          dislpay: flex;
@@ -221,6 +221,7 @@ nav ul li {
     }
      .header-content p {
        max-width: 500px;
+       padding: 15px;
     }
      .header-content img {
 
