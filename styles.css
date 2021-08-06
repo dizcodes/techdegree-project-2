@@ -202,10 +202,12 @@ nav ul li {
      .header-wrapper{
         flex-direction: row;
         margin: auto;
+
     }
     .header-wrapper h1 {
         display: flex;
         justify-content: flex-start;
+        padding: 5px;
 
     }
      nav ul  {
@@ -219,7 +221,7 @@ nav ul li {
     }
      .header-content {
          dislpay: flex;
-         justify-content: flex-end;
+         justify-content: space-between;
          max-width: 1020px;
     }
      .header-content p {
