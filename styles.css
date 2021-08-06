@@ -201,7 +201,6 @@ nav ul li {
 
      .header-wrapper{
         flex-direction: row;
-        justify-content: space-between;
         margin: auto;
     }
     .header-wrapper h1 {
