@@ -80,7 +80,7 @@ nav ul li {
 }
 footer {
    display: flex;
-   justify-content:
+   justify-content: space-between;
 
 }
  footer h1  {
