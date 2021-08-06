@@ -142,6 +142,8 @@ nav ul li {
          justify-content: flex-start;
        }
        .header-wrapper h1 {
+
+         display: flex;
          font-size:1.8rem;
          justify-content: flex-start;
        }
@@ -155,7 +157,7 @@ nav ul li {
        }
        .header-content img  {
         display-flex: flex;
-        justify-content: space-evenly;         
+        justify-content: space-evenly;
        }
        nav ul  {
          display: flex;
