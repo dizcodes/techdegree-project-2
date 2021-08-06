@@ -213,6 +213,10 @@ nav ul li {
        justify-content: flex-end;
 
     }
+    nav ul li {
+       display: flex;
+       justify-content: flex-end;
+    }
      .header-content {
          dislpay: flex;
          justify-content: flex-end;
