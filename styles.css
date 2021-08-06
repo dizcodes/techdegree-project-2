@@ -155,7 +155,7 @@ nav ul li {
        }
        .header-content img  {
         display-flex: flex;
-        justify-content: flex-end;         
+        justify-content: space-evenly;         
        }
        nav ul  {
          display: flex;
