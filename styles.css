@@ -78,7 +78,10 @@ nav ul li {
       max-width: 300px;
       margin: 20px auto;
 }
-
+ .footer-back {
+   display: flex;
+   justify-content: flex-end;
+ }
 #footer-nav {
       display: none;
 }
