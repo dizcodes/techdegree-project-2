@@ -139,7 +139,7 @@ nav ul li {
        .header-wrapper {
          width:100%;
          padding:  10px 10px;
-         justify-content: flex-start;
+         justify-content: center;
        }
        .header-wrapper h1 {
 
@@ -162,7 +162,7 @@ nav ul li {
        nav ul  {
          display: flex;
          flex-direction: row;
-         justify-content: flex-end;
+         justify-content: center;
          max-width: 768px;
        }
        nav ul li {
