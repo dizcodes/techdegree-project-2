@@ -212,6 +212,7 @@ nav ul li {
      nav ul  {
        display: flex;
        justify-content: flex-end;
+       margin-right: 30px;
     }
      .header-content {
          dislpay: flex;
