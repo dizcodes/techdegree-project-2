@@ -145,7 +145,7 @@ nav ul li {
 
          display: flex;
          font-size:1.8rem;
-         justify-content: flex-start;
+         justify-content: center;
        }
        .header-content  {
         display: flex;
