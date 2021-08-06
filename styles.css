@@ -83,7 +83,10 @@ footer {
    justify-content:
 
 }
-
+ footer h1  {
+    display: flex;
+    justify-content: flex-start;
+ }
  .footer-back {
 
  }
