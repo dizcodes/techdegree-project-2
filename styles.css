@@ -209,8 +209,9 @@ nav ul li {
         justify-content: flex-start;
 
     }
-     nav ul li {
-
+     nav ul  {
+       display: flex;
+       justify-content: flex-end;
     }
      .header-content {
          dislpay: flex;
